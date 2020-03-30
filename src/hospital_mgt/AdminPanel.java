@@ -139,7 +139,7 @@ public class AdminPanel extends JFrame{
 			}		
 			
 			if(btn.getActionCommand().equals("Patient Information")) {
-				cLayout.show(centerPanel, "patientPanel");
+				cLayout.show(centerPanel, "patientPanel");//patient info panel
 			}		
 		}
 		
